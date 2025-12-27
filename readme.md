@@ -39,8 +39,3 @@ Cada diretório representa uma aula, contendo códigos de exemplo.
 - Integração com banco de dados
 
 - Autenticação e segurança
-
-👤 Autor
-
-Nathan Souza
-Desenvolvedor em formação
